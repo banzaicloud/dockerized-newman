@@ -3,7 +3,7 @@ Docker image for running end to end tests against the BanzaiCloud Pipeline API
 
 ## Example
 
-docker run -e PIPELINE_ENDPOINT="http://ppl:9090/" -e POSTMAN_COLLECTION="https://www.getpostman.com/collections/56684ef61ee236e8f30d"
+```docker run -e PIPELINE_ENDPOINT="http://ppl:9090/" -e POSTMAN_COLLECTION="https://www.getpostman.com/collections/56684ef61ee236e8f30d"```
 
 ## References
 https://hub.docker.com/r/postman/newman_alpine33/
