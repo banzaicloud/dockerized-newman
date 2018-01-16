@@ -1,5 +1,6 @@
-# postman-e2e
+# Docker image for running e2e tests with Postman
 Docker image for running end to end tests against the BanzaiCloud Pipeline API
+(Extends the original postman image with environment configuration upon container start)
 
 ## Example
 
