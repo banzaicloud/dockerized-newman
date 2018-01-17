@@ -1,6 +1,6 @@
 # Dockerized Newman
 
-For rdetailed reference please check this [post](https://banzaicloud.com/blog/helm-rest-api/).
+For detailed reference please check this [post](https://banzaicloud.com/blog/helm-rest-api/).
 
 # Docker image for running e2e tests with Postman
 Docker image for running end to end tests against the BanzaiCloud Pipeline API
